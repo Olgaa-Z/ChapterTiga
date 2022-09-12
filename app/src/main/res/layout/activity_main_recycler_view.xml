@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".RecyclerView.MainRecyclerView">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvStudent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnNodiff"
+        android:text="No diff"
+        android:layout_below="@+id/rvStudent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnUpdatenodiff"
+        android:text="Update No diff"
+        android:layout_toRightOf="@+id/btnNodiff"
+        android:layout_below="@+id/rvStudent"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btnDiff"
+        android:text="With Diff Util"
+        android:layout_below="@+id/btnNodiff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnUpdateDiff"
+        android:text="Update with Diff Util"
+        android:layout_toRightOf="@+id/btnDiff"
+        android:layout_below="@+id/btnNodiff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

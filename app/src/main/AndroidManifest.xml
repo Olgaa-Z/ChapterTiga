@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.zfuncode.chaptertiga">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChapterTiga"
+        tools:targetApi="31">
+        <activity
+            android:name=".RecyclerView.DetailStudent"
+            android:exported="false" />
+        <activity
+            android:name=".RecyclerView.MainRecyclerView"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".navigation_drawer.NavDrawerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".viewpager.WhatsappActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".bottomnav.GojekActivity"
+            android:exported="true" />
+        <activity
+            android:name=".topictiga.MainFragmentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".topicdua.ParsingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.BundleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.ExplicitIntent"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.ImplicitIntent"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.IntentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".topicdua.TopicDua"
+            android:exported="false" />
+        <activity
+            android:name=".topicsatu.CaseStudy1"
+            android:exported="false" />
+        <activity
+            android:name=".topicsatu.ActivityLifecycle"
+            android:exported="false" />
+        <activity
+            android:name=".topicsatu.TopicSatu"
+            android:exported="false" />
+        <activity
+            android:name=".topicsatu.PemanggilanId"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

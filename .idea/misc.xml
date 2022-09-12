@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_bundle.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_case_study1.xml" value="0.25" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_detail_student.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_explicit.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_gojek.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_implicit.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_intent.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_lifecycle.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_main_fragment.xml" value="0.1" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_main_recycler_view.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_nav_drawer.xml" value="0.1" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_pemanggilan_id.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_second.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_topic_dua.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_topic_satu.xml" value="0.3484375" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/activity_whatsapp.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_beranda.xml" value="0.25" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_call_wa.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_camera_wa.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_chat.xml" value="0.13793103448275862" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_chat_wa.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_dua.xml" value="0.1" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_pesanan.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_promo.xml" value="0.13793103448275862" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_satu.xml" value="0.1" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/fragment_status_wa.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/layout/item_list_student.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/ChapterTiga/app/src/main/res/menu/menu_navigation.xml" value="0.3625" />
+        <entry key="..\:/BinarAcademy/AND1_KM3/PrepareKotlin/app/src/main/res/layout/activity_main.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

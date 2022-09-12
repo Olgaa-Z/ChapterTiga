@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".topicdua.ExplicitIntent">
+
+    <TextView
+        android:id="@+id/txtbiasa"
+        android:text="Halo, Selamat Datang "
+        android:textSize="25sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/getNama"
+        android:text="Zelvi"
+        android:layout_toRightOf="@+id/txtbiasa"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/getUmur"
+        android:text="1999"
+        android:layout_below="@+id/getNama"
+        android:layout_marginTop="20dp"
+        android:textSize="23sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/getNilai"
+        android:text="90"
+        android:layout_below="@+id/getUmur"
+        android:layout_marginTop="20dp"
+        android:textSize="23sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>
